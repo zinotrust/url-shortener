@@ -301,6 +301,7 @@ nav {
   background-color: var(--dark-violet);
   position: relative;
   z-index: -1;
+  overflow: hidden;
 }
 
 .boost-section::before {
